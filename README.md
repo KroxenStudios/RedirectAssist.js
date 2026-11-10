@@ -1,6 +1,3 @@
-RedirectAssist.js
-Lightweight, open-source tool for redirect managing in your website.
-
 # RedirectAssist.js
 
 RedirectAssist.js is a client-side JavaScript tool for configured redirects and basic session-based traffic counting. It loads `RedirectAssist.txt` from the website, redirects visitors to the configured destination, and can send an event to a public HTTPS worker.
